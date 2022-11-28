@@ -1,0 +1,9 @@
+.Traffic-box {
+  padding: 20px;
+  display: grid;
+  grid-template-rows: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+  border: solid 2px black;
+  border-radius: 10px;
+  background-color: rgba(148, 143, 143, 0.623);
+}

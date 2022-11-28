@@ -1,0 +1,25 @@
+.Light {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.Bg-red {
+  background-color: red;
+}
+
+.Bg-yellow {
+  background-color: yellow;
+}
+
+.Bg-green {
+  background-color: green;
+}
+
+.Light-on {
+  opacity: 1;
+}
+
+.Light-off {
+  opacity: 0.3;
+}
